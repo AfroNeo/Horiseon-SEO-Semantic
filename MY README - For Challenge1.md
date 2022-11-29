@@ -1,6 +1,6 @@
 Title: Challenge0
 Description: For this challenge I worked on a website called “Horiseon” which specialises in Search Engine Optimization.
-The client instructions were to make their website more accessible by using ‘semantic’ html code to replace ‘non-semantic’ (<div> or <span>).
+The client instructions were to make their website more accessible by using ‘semantic’ html code to replace ‘non-semantic.’
 
 I updated the website html and CSS with what was required by replacing non-semantics with semantics and removing the period (.) in the CSS file code on the container of those linked html sections. 
 
