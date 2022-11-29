@@ -15,6 +15,6 @@ I did not make too many changes to the CSS as I felt there wasn’t much I could
 
 Here are my links:
 
-https://github.com/AfroNeo/challenge0
+GitHub site: https://github.com/AfroNeo/Horiseon-SEO-Semantic
 
-https://afroneo.github.io/challenge0/
+Website: https://afroneo.github.io/Horiseon-SEO-Semantic/
