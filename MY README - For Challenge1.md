@@ -1,4 +1,5 @@
 Title: Challenge0
+
 Description: For this challenge I worked on a website called “Horiseon” which specialises in Search Engine Optimization.
 The client instructions were to make their website more accessible by using ‘semantic’ html code to replace ‘non-semantic.’
 
@@ -13,5 +14,7 @@ I was motivated to build on to this project because I wanted to implement my lea
 I did not make too many changes to the CSS as I felt there wasn’t much I could do, it appeared normal.
 
 Here are my links:
+
 https://github.com/AfroNeo/challenge0
+
 https://afroneo.github.io/challenge0/
