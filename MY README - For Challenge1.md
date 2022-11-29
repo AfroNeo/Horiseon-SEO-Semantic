@@ -1,4 +1,4 @@
-Title: Challenge0
+Title: Horiseon-SEO-Semantic
 
 Description: For this challenge I worked on a website called “Horiseon” which specialises in Search Engine Optimization.
 The client instructions were to make their website more accessible by using ‘semantic’ html code to replace ‘non-semantic.’
